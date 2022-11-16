@@ -54,6 +54,7 @@ list files 列出目录及文件名
   | -v , --show-nonprinting | 除了LFD和TAB之外所有控制符用^和M-记方式显示 |
   | --version               | 显示版本信息并推出                          |
 
+
 - **示例**
 
   ```shell
